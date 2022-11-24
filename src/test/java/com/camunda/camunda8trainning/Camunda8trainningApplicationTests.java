@@ -9,7 +9,7 @@ class Camunda8trainningApplicationTests {
     @Test
     @SuppressWarnings("java:S2699")
     void contextLoads() {
-        // test
+
     }
 
 }
