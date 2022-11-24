@@ -1,0 +1,7 @@
+zeebe:
+  client:
+    cloud:
+      cluster-id: 5bfa5da9-1492-42d4-a652-4974af759018
+      client-id: KwOYaGpJ~n87TPc1R~MuL8v4p58iYLLj
+      client-secret: EGlOAhKzX.VYUQrz2LCNMJRlB5COdXo9gHdlljVeQxJsdMDaRFAGIzTDKCzKWb4s
+      region: dsm-1
